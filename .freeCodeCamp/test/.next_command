@@ -188,3 +188,4 @@ cp courses.csv
 touch courses_test.csv
 cp courses.csv
 cp courses.csv courses_test.csv
+./insert_data.sh
